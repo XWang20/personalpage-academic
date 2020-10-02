@@ -15,7 +15,7 @@ role: a third year Undergraduate of Software Engineer
 # Organizations/Affiliations
 organizations:
 - name: University of Electronic Science and Technology of China
-  url: ""
+  url: "https://www.uestc.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include machine learning, deep learning and learning on graphs. 
