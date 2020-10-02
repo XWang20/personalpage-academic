@@ -62,7 +62,7 @@ highlight_languages = ["r"]  # Add support for highlighting additional languages
 
 # Enable LaTeX math rendering? true/false
 #   If false, you can enable math on a per page basis as needed.
-math = false
+math = true
 
 # Enable diagram rendering? true/false
 #   If false, you can enable diagrams on a per page basis as needed.
@@ -97,7 +97,7 @@ address = {street = "University of Electronic Science and Technology of China", 
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "104.09789", longitude = "30.67664"}
+coordinates = {latitude = "104.1021662", longitude = "30.67664"}
 
 # Directions for visitors to locate you.
 # directions = "Enter Building 1 and take the stairs to Office 200 on Floor 2"
