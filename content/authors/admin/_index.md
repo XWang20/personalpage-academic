@@ -69,6 +69,7 @@ user_groups:
 - Visitors
 ---
 
-Hi! I'm Wang Xing, a third year undergraduate in University of Electronic Science and Technology of China(UESTC). 
+Hi! I'm Wang Xing, a junior year undergraduate in University of Electronic Science and Technology of China(UESTC). 
 
 My research interests are machine learning, deep learning and learning on graphs. 
+
