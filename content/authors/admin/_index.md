@@ -21,10 +21,10 @@ organizations:
 bio: My research interests include machine learning, deep learning and learning on graphs. 
 
 # Interests to show in About widget
-interests:
+reseatch interests:
 - Artificial Intelligence
-- Software Development
-- UI design
+- Machine Learning
+- Learning on graphs
 
 # Education to show in About widget
 education:
@@ -71,5 +71,7 @@ user_groups:
 
 Hi! I'm Wang Xing, a junior year undergraduate in University of Electronic Science and Technology of China(UESTC). 
 
-My research interests are machine learning, deep learning and learning on graphs. 
+My research focuses on  machine learning, learning on graphs, and graph nerual networks. I love to work with data! 
+
+I am also facinated with innovation. UI design and software development can always inspire me. During my undergraduate career,  I work with my partners on product development, which allows us to practice skills and won national awards. 
 
