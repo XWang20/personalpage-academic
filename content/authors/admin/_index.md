@@ -18,10 +18,10 @@ organizations:
   url: "https://www.uestc.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include machine learning, deep learning and learning on graphs. 
+bio: My research interests include machine learning, learning on graphs and GNNs.
 
 # Interests to show in About widget
-reseatch interests:
+interests:
 - Artificial Intelligence
 - Machine Learning
 - Learning on graphs
