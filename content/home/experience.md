@@ -37,6 +37,6 @@ GPA: 3.84, top 15%(need to be improved)
   location = "Nanjing, China"
   date_start = "2020-07-01"
   date_end = "2020-08-01"
-  description = """ phish email classification(need to be improved) """
+  description = """phish email classification"""
 
 +++
