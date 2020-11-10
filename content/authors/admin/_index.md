@@ -57,7 +57,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "xwang20@126.com"
+email: "wangxing1027@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -69,7 +69,7 @@ user_groups:
 - Visitors
 ---
 
-Hi! I'm Wang Xing, a junior year undergraduate in University of Electronic Science and Technology of China(UESTC). 
+Hi! I'm Xing Wang, a third year undergraduate in University of Electronic Science and Technology of China(UESTC). 
 
 My research focuses on  machine learning, learning on graphs, and graph neural networks. Dealing with structured data  structured data makes me feel thrilled! 
 
