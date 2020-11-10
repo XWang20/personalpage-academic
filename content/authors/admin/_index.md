@@ -71,7 +71,7 @@ user_groups:
 
 Hi! I'm Wang Xing, a junior year undergraduate in University of Electronic Science and Technology of China(UESTC). 
 
-My research focuses on  machine learning, learning on graphs, and graph nerual networks. I love to work with data! 
+My research focuses on  machine learning, learning on graphs, and graph neural networks. Dealing with structured data  structured data makes me feel thrilled! 
 
-I am also facinated with innovation. UI design and software development can always inspire me. During my undergraduate career,  I work with my partners on product development, which allows us to practice skills and won national awards. 
+I am also fascinated with innovation. UI design and software development can always inspire me. During my undergraduate years,  I worked with partners on software development, which allows us to practice skills and win national awards. 
 
