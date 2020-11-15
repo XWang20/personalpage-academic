@@ -16,4 +16,4 @@ title: Publication
 subtitle:
 ---
 
-* Smooth Representation Semi-Supervised Classification,  Xing Wang, Zhao Kang, Computer Science, 2020. (In Chinese) [[Code]](https://github.com/sckangz/SRSSC)
+* Smooth Representation Semi-Supervised Classification,  Xing Wang, Zhao Kang, Journal of Computer Science, 2020. (In Chinese) [[Code]](https://github.com/sckangz/SRSSC)

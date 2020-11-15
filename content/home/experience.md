@@ -26,17 +26,8 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
 
-GPA: 3.84, top 15%(need to be improved) 
+GPA: 3.84, rank: 12/92, CET6 pass
 
 """
-
-[[experience]]
-  title = "Summer Camp"
-  company = "Natural Language Processing Lab, Nanjing University"
-  company_url = "http://nlp.nju.edu.cn/homepage/"
-  location = "Nanjing, China"
-  date_start = "2020-07-01"
-  date_end = "2020-08-01"
-  description = """phish email classification"""
 
 +++
