@@ -18,15 +18,28 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Undergraduate of Software Engineer"
-  company = "University of Electronic Science and Technology of China"
-  company_url = "https://www.uestc.edu.cn/"
+  title = "Research Assistant (Advisor: [Prof. Zhao Kang](https://sites.google.com/site/zhaokanghomepage/home))"
+  company = "Trusted Cloud Computing and Big Data Key Laboratory, UESTC "
+  company_url = "http://ailab.uestc.edu.cn/a2301/index.php/"
   location = "Chengdu, China"
-  date_start = "2018-09-01"
+  date_start = "2020-01-01"
   date_end = ""
   description = """
 
-GPA: 3.84, rank: 12/92, CET6 pass
+Research Area: Graph-based Semi-supervised Classification
+
+"""
+
+[[experience]]
+  title = "Summer Camp (Advisor: [Prof. Zhao Kang](https://sites.google.com/site/zhaokanghomepage/home))"
+  company = "Natural Language Processing Lab, Nanjing University"
+  company_url = "http://nlp.nju.edu.cn/homepage/"
+  location = "Chengdu, China"
+  date_start = "2020-07-04"
+  date_end = "2020-08-01"
+  description = """
+
+Research Area: Phishing Mail Detection
 
 """
 
