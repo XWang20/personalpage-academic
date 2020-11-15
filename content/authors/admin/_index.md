@@ -47,14 +47,14 @@ social:
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/XWang20
+# - icon: github
+#  icon_pack: fab
+#  link: https://github.com/XWang20
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: file/CV_xingwang.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "wangxing1027@gmail.com"
@@ -71,7 +71,7 @@ user_groups:
 
 Hi! I'm Xing Wang, a third year undergraduate in University of Electronic Science and Technology of China(UESTC). 
 
-My research focuses on  machine learning, learning on graphs, and graph neural networks. Dealing with structured data  structured data always makes me feel happy! 
+My research focuses on  machine learning, learning on graphs, and graph neural networks. Dealing with structured data always makes me feel happy! 
 
 I am also fascinated with innovation. UI design and software development can inspire me. During my undergraduate years,  I worked with partners on software development, which allowed us to practice skills and win national awards. 
 
