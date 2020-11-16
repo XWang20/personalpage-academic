@@ -31,7 +31,7 @@ Research Area: Graph-based Semi-supervised Classification
 """
 
 [[experience]]
-  title = "Summer Camp (Advisor: [Prof. Zhao Kang](https://sites.google.com/site/zhaokanghomepage/home))"
+  title = "Summer Camp"
   company = "Natural Language Processing Lab, Nanjing University"
   company_url = "http://nlp.nju.edu.cn/homepage/"
   location = "Chengdu, China"
